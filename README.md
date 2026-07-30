@@ -96,5 +96,3 @@ Contributions are welcome! Feel free to fork the repository, create a new branch
 ### Developed By
 
 Simran Tripathi
-
-If you like this project, don't forget to ⭐ the repository!
