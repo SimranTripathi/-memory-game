@@ -68,6 +68,10 @@ The application will run at:
 ```text
 http://localhost:3000
 ```
+##OUTPUT
+<img width="2056" height="974" alt="image" src="https://github.com/user-attachments/assets/2b8a1d24-a1dc-436f-b760-29bb9a1d5db7" />
+
+<img width="2066" height="964" alt="image" src="https://github.com/user-attachments/assets/6b1166bf-155b-4a20-8a8e-dbd49b9a806d" />
 
 ## How to Play
 
