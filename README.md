@@ -18,6 +18,7 @@ A fun and interactive Memory Trick Game built using React.js. The game challenge
 ##  Technologies Used
 
 * React.js
+* Bootstrap
 * JavaScript (ES6+)
 * HTML5
 * CSS3
