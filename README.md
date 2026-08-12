@@ -73,6 +73,9 @@ http://localhost:3000
 
 <img width="2066" height="964" alt="image" src="https://github.com/user-attachments/assets/6b1166bf-155b-4a20-8a8e-dbd49b9a806d" />
 
+<img width="1600" height="850" alt="WhatsApp Image 2026-07-13 at 10 27 05 PM" src="https://github.com/user-attachments/assets/4c92b118-32b3-4128-acab-e5930bec2ab4" />
+
+
 ## How to Play
 
 1. Click on any card to reveal it.
