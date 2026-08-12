@@ -70,6 +70,9 @@ http://localhost:3000
 ```
 ##OUTPUT
 
+![Uploading WhatsApp Image 2026-07-13 at 9.29.51 PM.jpeg…]()
+
+
 <img width="1600" height="850" alt="WhatsApp Image 2026-07-13 at 10 27 05 PM" src="https://github.com/user-attachments/assets/ad816565-552a-4da1-b183-c7743d15b8ab" />
 
 <img width="2056" height="974" alt="image" src="https://github.com/user-attachments/assets/2b8a1d24-a1dc-436f-b760-29bb9a1d5db7" />
