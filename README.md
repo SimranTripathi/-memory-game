@@ -2,7 +2,7 @@
 Memory Trick Game using React
 # Memory Trick Game
 
-A fun and interactive Memory Trick Game built using React.js. The game challenges players to test and improve their memory by finding matching pairs of cards in the least number of moves.
+A fun and interactive Memory Trick Game built using html,css, javascript, bootstrap, React.js. The game challenges players to test and improve their memory by finding matching pairs of cards in the least number of moves.
 
 ## Features
 
