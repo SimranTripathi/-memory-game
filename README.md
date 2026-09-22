@@ -1,19 +1,38 @@
-# -memory-game
-Memory Trick Game using React
-# Memory Trick Game
+# 🧠 Memory Trick Game
 
-A fun and interactive Memory Trick Game built using html,css, javascript, bootstrap, React.js. The game challenges players to test and improve their memory by finding matching pairs of cards in the least number of moves.
+A fun and interactive **Memory Trick Game** developed using **React.js**. The game tests and improves the player's memory by challenging them to find matching pairs of cards in the minimum number of moves.
 
-## Features
+## ✨ Features
 
-*  Interactive memory card matching gameplay
-*  Built with React.js and Hooks
-*  Randomized card shuffle on every game
-*  Responsive design for desktop and mobile
-*  Move counter
-*  Win message after matching all cards
-*  Restart/New Game option
-*  Clean and attractive user interface
+* 🃏 Interactive card-matching gameplay
+* ⚛️ Built with **React.js and React Hooks**
+* 🔀 Random card shuffling for every new game
+* 📱 Responsive design for desktop and mobile devices
+* 🔢 Move counter to track player performance
+* 🎉 Win message displayed after all pairs are matched
+* 🔄 Restart/New Game option
+* 🎨 Clean, simple, and attractive user interface
+
+## 🛠️ Technologies Used
+
+* **React.js**
+* **JavaScript**
+* **HTML5**
+* **CSS3**
+* **Bootstrap**
+
+## 🎮 How to Play
+
+1. Start the game by clicking on a card.
+2. Select another card to find its matching pair.
+3. Continue matching all pairs of cards.
+4. Try to complete the game in the **fewest possible moves**.
+5. Use the **New Game/Restart** option to play again.
+
+## 🎯 Objective
+
+The main objective of the game is to improve **memory, concentration, and observation skills** while providing an engaging and interactive gaming experience.
+
 
 ##  Technologies Used
 
