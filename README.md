@@ -1,6 +1,6 @@
 # 🧠 Memory Trick Game
 
-A fun and interactive **Memory Trick Game** developed using **React.js**. The game tests and improves the player's memory by challenging them to find matching pairs of cards in the minimum number of moves.
+A fun and interactive **Memory Trick Game** developed using **React.js**. The game tests and improves the player's memory by challenging them to find matching pairs of cards in the minimum number of moves. learn patterns 
 
 ## ✨ Features
 
