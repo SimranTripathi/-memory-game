@@ -20,6 +20,7 @@ A fun and interactive **Memory Trick Game** developed using **React.js**. The ga
 * **HTML5**
 * **CSS3**
 * **Bootstrap**
+* **Mongoo**
 
 ## 🎮 How to Play
 
