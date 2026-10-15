@@ -12,6 +12,7 @@ A fun and interactive **Memory Trick Game** developed using **React.js**. The ga
 * 🎉 Win message displayed after all pairs are matched
 * 🔄 Restart/New Game option
 * 🎨 Clean, simple, and attractive user interface
+* Learns pattens to match caed
 
 ## 🛠️ Technologies Used
 
