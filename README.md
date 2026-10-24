@@ -13,6 +13,7 @@ A fun and interactive **Memory Trick Game** developed using **React.js**. The ga
 * 🔄 Restart/New Game option
 * 🎨 Clean, simple, and attractive user interface
 * display win
+* DISPLAY TRY AGAIN
 * Learns pattens to match caed
 * Win and Time msg show
 
